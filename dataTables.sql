@@ -65,13 +65,13 @@ VALUES
 ('Bell pepper', 'Fresh bell peppers', 1.98, 2, 1, 'Vegetables'),
 ('Banana', 'Ripe bananas', 7.95, 2, 2, 'Fruits'),
 ('Strawberry', 'Juicy strawberries', 7.95, 2, 3, 'Fruits'),
-(‘Cheese’, ‘Fresh cheese', 9.99, 2, 8, ‘Dairy’),
+('Cheese’, ‘Fresh cheese', 9.99, 2, 8, ‘Dairy’),
 ('Apple', 'Fresh apples', 5.10, 2, 5, 'Fruits'),
 ('Green peas', 'Tender green peas', 4.26, 2, 6, 'Vegetables'),
 ('Tomato', 'Ripe tomatoes', 2.66, 2, 7, 'Vegetables'),
 ('Brocolli', 'Nutritious broccoli', 4.70, 2, 8, 'Vegetables'),
 ('Carrots', 'Crunchy carrots', 2.44, 2, 9, 'Vegetables'),
-(‘’Milk, 'Refreshing milk', 4.54, 2, 10, 'Dairy'),
-(‘Chicken’, ‘Fresh broiler chicken', 31.99, 4, 11, ‘Poultry’),
+('Milk', 'Refreshing milk', 4.54, 2, 10, 'Dairy'),
+('Chicken', 'Fresh broiler chicken', 31.99, 4, 11, 'Poultry'),
 ('Onion', 'Fresh onions', 4.88, NULL, 12, 'Vegetables'),
-(‘Eggs, 'Farm-fresh eggs', 12, NULL, 13, 'Poultry');
+('Eggs', 'Farm-fresh eggs', 12, NULL, 13, 'Poultry');
